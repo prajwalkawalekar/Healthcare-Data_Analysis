@@ -8,6 +8,10 @@ The dataset contains **55,000 rows and 15 columns**, representing real-world hos
 The project demonstrates an **end-to-end data analytics workflow**, starting from data cleaning to SQL-based analysis and interactive dashboard creation.
 
 ---
+---
+---
+---
+---
 
 ## Dataset Description
 
