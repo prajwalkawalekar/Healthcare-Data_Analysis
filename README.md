@@ -7,12 +7,6 @@ This project focuses on analyzing **healthcare patient admission and billing dat
 The dataset contains **55,000 rows and 15 columns**, representing real-world hospital operational data.
 The project demonstrates an **end-to-end data analytics workflow**, starting from data cleaning to SQL-based analysis and interactive dashboard creation.
 
----
----
----
----
----
-
 ## Dataset Description
 
 **Rows:** 55,000
@@ -36,8 +30,6 @@ The project demonstrates an **end-to-end data analytics workflow**, starting fro
 * **Medication** – Prescribed medication
 * **Test_Result** – Normal / Abnormal test outcome
 
----
-
 ## 🛠️ Tech Stack Used
 
 | Tool         | Purpose                                          |
@@ -45,8 +37,6 @@ The project demonstrates an **end-to-end data analytics workflow**, starting fro
 | **Excel**    | Data cleaning, preprocessing, validation         |
 | **SQL**      | Data analysis, aggregations, insights extraction |
 | **Power BI** | Interactive dashboards & data visualization      |
-
----
 
 ## 🧹 Data Cleaning (Excel)
 
